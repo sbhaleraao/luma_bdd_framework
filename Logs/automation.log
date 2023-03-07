@@ -1,0 +1,29 @@
+2023-03-07 22:53:09,619  INFO [main] LUMA BDD CUCUMBER:33 - ************* Launching Browser *****************
+2023-03-07 22:53:10,906  INFO [main] LUMA BDD CUCUMBER:45 - ************* Opening URL  *****************
+2023-03-07 22:54:08,160  INFO [main] LUMA BDD CUCUMBER:33 - ************* Launching Browser *****************
+2023-03-07 22:54:09,598  INFO [main] LUMA BDD CUCUMBER:45 - ************* Opening URL  *****************
+2023-03-07 22:55:40,155  INFO [main] LUMA BDD CUCUMBER:33 - ************* Launching Browser *****************
+2023-03-07 22:55:41,346  INFO [main] LUMA BDD CUCUMBER:45 - ************* Opening URL  *****************
+2023-03-07 22:58:45,983  INFO [main] LUMA BDD CUCUMBER:33 - ************* Launching Browser *****************
+2023-03-07 22:58:47,351  INFO [main] LUMA BDD CUCUMBER:45 - ************* Opening URL  *****************
+2023-03-07 23:00:11,620  INFO [main] LUMA BDD CUCUMBER:171 - ************* Close the browser *****************
+2023-03-07 23:05:16,203  INFO [main] LUMA BDD CUCUMBER:33 - ************* Launching Browser *****************
+2023-03-07 23:05:17,567  INFO [main] LUMA BDD CUCUMBER:45 - ************* Opening URL  *****************
+2023-03-07 23:05:30,691  INFO [main] LUMA BDD CUCUMBER:75 - ************* Signed In Successfully *****************
+2023-03-07 23:05:46,554  INFO [main] LUMA BDD CUCUMBER:100 - ************* 2 jacket product added to the cart *****************
+2023-03-07 23:05:58,962  INFO [main] LUMA BDD CUCUMBER:120 - ************* 1 bottom product added to the cart *****************
+2023-03-07 23:06:04,459  INFO [main] LUMA BDD CUCUMBER:130 - ************* Navigated to the checkout page *****************
+2023-03-07 23:06:16,658  INFO [main] LUMA BDD CUCUMBER:150 - ************* Order placed successfully *****************
+2023-03-07 23:06:33,676  INFO [main] LUMA BDD CUCUMBER:168 - ************* My Order List *****************
+2023-03-07 23:06:37,832  INFO [main] LUMA BDD CUCUMBER:176 - ************* Verified the last order *****************
+2023-03-07 23:06:37,974  INFO [main] LUMA BDD CUCUMBER:183 - ************* Close the browser *****************
+2023-03-07 23:09:25,864  INFO [main] LUMA BDD CUCUMBER:33 - ************* Launching Browser *****************
+2023-03-07 23:09:27,251  INFO [main] LUMA BDD CUCUMBER:45 - ************* Opening URL  *****************
+2023-03-07 23:09:40,982  INFO [main] LUMA BDD CUCUMBER:75 - ************* Signed In Successfully *****************
+2023-03-07 23:09:56,909  INFO [main] LUMA BDD CUCUMBER:100 - ************* 2 jacket product added to the cart *****************
+2023-03-07 23:10:09,387  INFO [main] LUMA BDD CUCUMBER:120 - ************* 1 bottom product added to the cart *****************
+2023-03-07 23:10:15,641  INFO [main] LUMA BDD CUCUMBER:130 - ************* Navigated to the checkout page *****************
+2023-03-07 23:10:27,827  INFO [main] LUMA BDD CUCUMBER:150 - ************* Order placed successfully *****************
+2023-03-07 23:10:46,286  INFO [main] LUMA BDD CUCUMBER:168 - ************* My Order List *****************
+2023-03-07 23:10:50,522  INFO [main] LUMA BDD CUCUMBER:176 - ************* Verified the last order *****************
+2023-03-07 23:10:50,665  INFO [main] LUMA BDD CUCUMBER:183 - ************* Close the browser *****************
